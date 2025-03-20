@@ -14,4 +14,4 @@ Here's a sample run of the program (user input is in bold italics):
 
 Enter temperature in Fahrenheit: 76
 
-Temperature: 76.0F = 24.444444444444443C"# assigment_04" 
+Temperature: 76.0F = 24.444444444444443C"
