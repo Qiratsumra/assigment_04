@@ -1,4 +1,4 @@
 # Project 9: Build a Python Website in 15 Minutes With Streamlit
 
-* [Github Link](https://github.com/Qiratsumra/data_generator_streamli)
+* [Github Link](https://github.com/Qiratsumra/data_generator_streamlit)
 * [Live View ](https://datageneratorapp-qs.streamlit.app/)
